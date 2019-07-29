@@ -1,0 +1,32 @@
+*{
+  padding: 0;
+margin: 2;
+box-sizing: border-box;
+}
+
+img {
+  width: 155px;
+  length: 250px;
+border: 3px #737373 solid;
+}
+body {
+  background-color: #6FA0BF;
+}
+h2 {
+  font-family: 'Fira Code', monospace;
+font-family: 'Amatic SC', cursive;
+display: flex;
+    justify-content: center;
+}
+h1 {
+  font-family: 'Satisfy', cursive;
+  display: flex;
+    justify-content: center;
+}
+#timer {
+  font-size: 70px;
+  display: flex;
+    justify-content: center;
+  color: #345573;
+font-family: 'Fira Code', monospace;
+}
